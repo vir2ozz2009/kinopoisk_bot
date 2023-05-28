@@ -12,7 +12,7 @@
 git clone git@github.com:vir2ozz2009/kinopoisk_bot.git
 ```
 
-Cоздать и активировать виртуальное окружение:
+Cоздать виртуальное окружение:
 
 Для Mac:
 ```
@@ -23,7 +23,7 @@ python3 -m venv venv
 ```
 python -m venv venv
 ```
-
+Активировать виртуальное акружение
 ```
 source venv/bin/activate
 ```
